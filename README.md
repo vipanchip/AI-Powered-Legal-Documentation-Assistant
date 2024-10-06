@@ -1,4 +1,3 @@
-# AI-Powered-Legal-Documentation-Assistant
 # Legal-Documentation-Assistant
 
 ## Table of Contents
