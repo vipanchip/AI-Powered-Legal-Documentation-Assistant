@@ -1,0 +1,10 @@
+flask
+Flask-Cors
+python-docx
+requests
+mysqlclient
+mammoth
+nltk
+sentence-transformers
+python-dotenv
+psycopg2
