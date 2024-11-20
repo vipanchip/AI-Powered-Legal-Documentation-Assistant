@@ -228,7 +228,7 @@ python app.py
 
 ## Contributors
 
-- [Vipanchi D Prasanna](https://github.com/vipanchip)
+- [Sushant Kumar](https://github.com/sushantkrsky)
 - [Varsha S](https://github.com/varshasathyaprakash)
 - [Sumedha](https://github.com/sumedharoy08)
   
